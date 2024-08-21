@@ -9,7 +9,8 @@
                 "ms-azuretools.vscode-docker",
                 "github.copilot",
                 "alefragnani.bookmarks",
-                "eamodio.gitlens"
+                "eamodio.gitlens",
+                "ms-python.python"
             ]
         }
     }
