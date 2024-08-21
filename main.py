@@ -1,6 +1,6 @@
 # Initialize the list of words
 fruits = [
-    "banana", "avocado", "apple", "banana", "Strawberry",
+    "banana", "avocado", "apple", "banana", " Strawberry",
     "orange", "BANANA", "grape", "bananaA", "avocado", "apple"
 ]
 
